@@ -63,3 +63,5 @@ If you encounter issues:
 1. Make sure Python 3.7+ is installed
 2. Verify the requests library is installed: `pip install requests`
 3. Ensure you have a stable internet connection for proxy fetching
+
+- ⚠️ Notice: This project is built on top of [MHDDoS](https://github.com/MatrixTM/MHDDoS). I’ve tweaked and improved a few parts to better fit my own use case, and I’m sharing it here in case it’s useful for others too. Big thanks to the original author for their great work!
