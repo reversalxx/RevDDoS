@@ -1,6 +1,6 @@
 # RevDDoS
 
-A lightweight ddos testing tool inspired by https://github.com/MatrixTM/MHDDoS.
+A lightweight ddos testing tool inspired by [MHDDoS](https://github.com/MatrixTM/MHDDoS).
 
 ## What This Tool Does
 
